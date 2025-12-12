@@ -100,6 +100,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/uniapp开发简要': RouteRecordInfo<
+      '/posts/uniapp开发简要',
+      '/posts/uniapp开发简要',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/webpack配置': RouteRecordInfo<
       '/posts/webpack配置',
       '/posts/webpack配置',
@@ -197,6 +204,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/hello-valaxy.md': {
       routes:
         | '/posts/hello-valaxy'
+      views:
+        | never
+    }
+    'pages/posts/uniapp开发简要.md': {
+      routes:
+        | '/posts/uniapp开发简要'
       views:
         | never
     }
