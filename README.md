@@ -54,7 +54,7 @@ git add .
 git commit -m "update blog"
 git push origin main 
 
-//首次推送需要运行该命令部署到gh-gh-pages分支生成静态资源
+//首次推送需要运行该命令部署到gh-pages分支生成静态资源
 pnpm run deploy
 ```
 
