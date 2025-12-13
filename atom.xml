@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://laplacecode.github.io/</id>
+    <title>Have fun every day!</title>
+    <updated>2025-12-13T13:18:29.888Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Laplace</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://laplacecode.github.io/"/>
+    <link rel="self" href="https://laplacecode.github.io/atom.xml"/>
+    <logo>https://avatars.githubusercontent.com/u/58564836?v=4</logo>
+    <icon>https://laplacecode.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Laplace</rights>
+    <entry>
+        <title type="html"><![CDATA[UniApp 开发简要]]></title>
+        <id>https://laplacecode.github.io/posts/uniapp开发简要</id>
+        <link href="https://laplacecode.github.io/posts/uniapp开发简要"/>
+        <updated>2025-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>UniApp 简介</h2>
+<p>UniApp 是一个使用 Vue.js 开发所有前端应用的框架，可以编译到 iOS、Android、H5、以及各种小程序等多个平台。</p>
+<h2>从 0 到 1 搭建</h2>
+<h2></h2>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/uniapp开发简要" target="_blank">https://laplacecode.github.io/posts/uniapp开发简要</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-12-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 快速入手]]></title>
+        <id>https://laplacecode.github.io/posts/React快速入手</id>
+        <link href="https://laplacecode.github.io/posts/React快速入手"/>
+        <updated>2025-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>React 知识体系</h2>
+<pre><code>React
+│
+├── Class Components (类组件)
+│   ├── this.setState({ count: 2 })
+│   └── 生</code></pre>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/React快速入手" target="_blank">https://laplacecode.github.io/posts/React快速入手</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-05-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端性能优化]]></title>
+        <id>https://laplacecode.github.io/posts/前端性能优化</id>
+        <link href="https://laplacecode.github.io/posts/前端性能优化"/>
+        <updated>2025-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前端性能优化的重要性</h2>
+<p>在当今的 Web 开发中，性能优化是提升用户体验的关键因素。一个快速响应的网站不仅能提高用户满意度，还能改善 SEO 排名和转化率。</p>
+<h2>核心优化策略</h2>
+<h3>1</h3>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/前端性能优化" target="_blank">https://laplacecode.github.io/posts/前端性能优化</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker + Nginx 部署 SpringBoot + MySQL + Vue 前后端分离项目]]></title>
+        <id>https://laplacecode.github.io/posts/docker部署</id>
+        <link href="https://laplacecode.github.io/posts/docker部署"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>项目架构</h2>
+<p>本文介绍如何使用 Docker + Nginx 部署一个前后端分离的项目，包含：</p>
+<ul>
+<li><strong>后端</strong>: SpringBoot 应用</li>
+<li><strong>数据库</strong>: MySQL</li>
+<li><strong>前端</strong></li>
+</ul>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/docker部署" target="_blank">https://laplacecode.github.io/posts/docker部署</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker 快速入手]]></title>
+        <id>https://laplacecode.github.io/posts/docker入手</id>
+        <link href="https://laplacecode.github.io/posts/docker入手"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>简介</h2>
+<p>Docker 是一个开源的容器化平台，可以将应用程序及其依赖打包成轻量级、可移植的容器，实现&quot;一次构建，到处运行&quot;。</p>
+<h2>Docker 安装部署</h2>
+<h3>Linux 安装</h3>
+<p>``</p>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/docker入手" target="_blank">https://laplacecode.github.io/posts/docker入手</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webpack 常用配置]]></title>
+        <id>https://laplacecode.github.io/posts/webpack配置</id>
+        <link href="https://laplacecode.github.io/posts/webpack配置"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Webpack 简介</h2>
+<p>Webpack 是一个现代 JavaScript 应用程序的静态模块打包器。它将项目中的各种资源（JS、CSS、图片等）打包成一个或多个 bundle。</p>
+<h2>Web</h2>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/webpack配置" target="_blank">https://laplacecode.github.io/posts/webpack配置</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS 两种安装方式]]></title>
+        <id>https://laplacecode.github.io/posts/Tailwind两种安装方式</id>
+        <link href="https://laplacecode.github.io/posts/Tailwind两种安装方式"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>简介</h2>
+<p>Tailwind CSS 是一个实用优先的 CSS 框架，可以通过两种方式安装：使用 Vite 插件或使用 PostCSS。两种方式都能快速集成 Tailwind CSS 到项目中。</p>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/Tailwind两种安装方式" target="_blank">https://laplacecode.github.io/posts/Tailwind两种安装方式</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-02-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CommonJS 和 ECMAScript]]></title>
+        <id>https://laplacecode.github.io/posts/Common和ECMA</id>
+        <link href="https://laplacecode.github.io/posts/Common和ECMA"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>概述</h2>
+<p>JavaScript 有两种主要的模块系统：<strong>CommonJS</strong> 和 <strong>ECMAScript Modules (ESM)</strong>。它们有不同的语法、加载机制和使用场景。</p>
+<h2>主要</h2>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/Common和ECMA" target="_blank">https://laplacecode.github.io/posts/Common和ECMA</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS 快速入手]]></title>
+        <id>https://laplacecode.github.io/posts/Tailwind入手</id>
+        <link href="https://laplacecode.github.io/posts/Tailwind入手"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>简介</h2>
+<p>Tailwind CSS 是一个实用优先的 CSS 框架，通过提供大量预定义的实用类，让开发者能够快速构建现代化的用户界面。</p>
+<h2>Tailwind 的优势</h2>
+<h3>对比传统 CS</h3>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/Tailwind入手" target="_blank">https://laplacecode.github.io/posts/Tailwind入手</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://laplacecode.github.io/posts/hello-valaxy</id>
+        <link href="https://laplacecode.github.io/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://laplacecode.github.io/posts/hello-valaxy" target="_blank">https://laplacecode.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Laplace</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
