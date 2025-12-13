@@ -1,1 +1,48 @@
 // you can custom css here
+
+// yun-post-list 下的 yun-card 随机背景色
+.yun-post-list :nth-child(5n+1) {
+  .yun-card {
+    background-color: #2C3135;
+    .border-\$va-c-divider{
+      border-color: #5D7B8B;
+    }
+
+  }
+}
+
+.yun-post-list :nth-child(5n+2) {
+  .yun-card {
+    background-color: #F5F0E6;
+    color: #000;
+
+    a {
+      color: #000;
+    }
+  }
+}
+
+.yun-post-list :nth-child(5n+3) {
+  .yun-card {
+    background-color: #73aecc;
+  }
+}
+
+.yun-post-list :nth-child(5n+4) {
+  .yun-card {
+    background-color: #F5F0E6;
+    .post-meta {
+      color: #5D7B8B;
+    }
+
+    a {
+      color: #5D7B8B;
+    }
+  }
+}
+
+.yun-post-list :nth-child(5n+5) {
+  .yun-card {
+    background-color: #8B9E77;
+  }
+}
