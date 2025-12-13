@@ -1,7 +1,7 @@
 ---
 title: Webpack 常用配置
-date: 2025-12-13
-updated: 2025-12-13
+date: 2025-03-12
+updated: 2025-03-12
 categories: 前端开发
 tags:
   - webpack

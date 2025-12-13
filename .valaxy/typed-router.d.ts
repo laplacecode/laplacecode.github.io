@@ -93,9 +93,23 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/Common和ECMA': RouteRecordInfo<
+      '/posts/Common和ECMA',
+      '/posts/Common和ECMA',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/hello-valaxy': RouteRecordInfo<
       '/posts/hello-valaxy',
       '/posts/hello-valaxy',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/React快速入手': RouteRecordInfo<
+      '/posts/React快速入手',
+      '/posts/React快速入手',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -201,9 +215,21 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
+    'pages/posts/Common和ECMA.md': {
+      routes:
+        | '/posts/Common和ECMA'
+      views:
+        | never
+    }
     'pages/posts/hello-valaxy.md': {
       routes:
         | '/posts/hello-valaxy'
+      views:
+        | never
+    }
+    'pages/posts/React快速入手.md': {
+      routes:
+        | '/posts/React快速入手'
       views:
         | never
     }
