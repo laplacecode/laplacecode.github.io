@@ -17,27 +17,22 @@
 ## 🚀 快速开始
 
 ### 安装依赖
-
 ```bash
 # 使用 npm
 npm install
-
 # 或使用 pnpm（推荐）
 pnpm install
 ```
 
 ### 开发
-
 ```bash
 npm run dev
 # 或
 pnpm dev
 ```
-
 访问 `http://localhost:5173/` 查看效果（会自动打开浏览器）。
 
 ### 打包
-
 ```bash
 # SSG 打包（推荐）
 npm run build:ssg
@@ -47,26 +42,24 @@ npm run build:spa
 ```
 
 ### 预览打包结果
-
 ```bash
 npm run serve
 ```
-
 访问 `http://localhost:8080/` 查看效果（会自动打开浏览器）。
 
 ## 🔄 自动化更新
-
 每次更新内容后，只需运行以下命令即可重新部署：
-
 ```bash
 git add .
 git commit -m "update blog"
-git push origin main && pnpm run deploy
+git push origin main 
+
+//首次推送需要运行该命令部署到gh-gh-pages分支生成静态资源
+pnpm run deploy
 ```
 
 
 ## 📁 项目结构
-
 ```
 valaxy-blog/
 ├── pages/              # 页面目录
@@ -88,7 +81,6 @@ valaxy-blog/
 ```
 
 ## ⚙️ 配置说明
-
 ### 站点配置
 
 修改 `site.config.ts` 来配置站点基本信息：
