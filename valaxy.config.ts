@@ -15,6 +15,8 @@ export default defineValaxyConfig<UserThemeConfig>({
   theme: 'yun',
 
   themeConfig: {
+    // @ts-ignore - themeColor is not in type definition but supported by theme
+    themeColor: 'dark',
     banner: {
       enable: true,
       title: 'Aloha',

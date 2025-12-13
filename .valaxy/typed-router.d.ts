@@ -100,6 +100,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/docker入手': RouteRecordInfo<
+      '/posts/docker入手',
+      '/posts/docker入手',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/hello-valaxy': RouteRecordInfo<
       '/posts/hello-valaxy',
       '/posts/hello-valaxy',
@@ -110,6 +117,20 @@ declare module 'vue-router/auto-routes' {
     '/posts/React快速入手': RouteRecordInfo<
       '/posts/React快速入手',
       '/posts/React快速入手',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Tailwind两种安装方式': RouteRecordInfo<
+      '/posts/Tailwind两种安装方式',
+      '/posts/Tailwind两种安装方式',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Tailwind入手': RouteRecordInfo<
+      '/posts/Tailwind入手',
+      '/posts/Tailwind入手',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -221,6 +242,12 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
+    'pages/posts/docker入手.md': {
+      routes:
+        | '/posts/docker入手'
+      views:
+        | never
+    }
     'pages/posts/hello-valaxy.md': {
       routes:
         | '/posts/hello-valaxy'
@@ -230,6 +257,18 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/React快速入手.md': {
       routes:
         | '/posts/React快速入手'
+      views:
+        | never
+    }
+    'pages/posts/Tailwind两种安装方式.md': {
+      routes:
+        | '/posts/Tailwind两种安装方式'
+      views:
+        | never
+    }
+    'pages/posts/Tailwind入手.md': {
+      routes:
+        | '/posts/Tailwind入手'
       views:
         | never
     }
