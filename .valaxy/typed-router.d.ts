@@ -107,6 +107,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/docker部署': RouteRecordInfo<
+      '/posts/docker部署',
+      '/posts/docker部署',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/hello-valaxy': RouteRecordInfo<
       '/posts/hello-valaxy',
       '/posts/hello-valaxy',
@@ -245,6 +252,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/docker入手.md': {
       routes:
         | '/posts/docker入手'
+      views:
+        | never
+    }
+    'pages/posts/docker部署.md': {
+      routes:
+        | '/posts/docker部署'
       views:
         | never
     }
